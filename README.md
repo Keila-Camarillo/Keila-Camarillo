@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently enrolled in the Data Science program at Codeup. As a learner of data science, I am excited to gain new skills and knowledge that will help me tackle complex problems and make data-driven decisions. I believe that data science is the key to unlocking insights and achieving meaningful outcomes in diverse fields, and I am eager to contribute to this important and evolving field. Through my studies, I hope to gain a deep understanding of statistical analysis, machine learning, and data visualization techniques, which I can apply to real-world problems and use to drive innovation and progress.
+I'm currently enrolled in the Data Science program at Codeup. As a learner of data science, I'm excited to gain new skills and knowledge that will help me tackle complex problems and make data-driven decisions. I believe that data science is the key to unlocking insights and achieving meaningful outcomes in diverse fields, and I am eager to contribute to this important and evolving field. Through my studies, I hope to gain a deep understanding of statistical analysis, machine learning, and data visualization techniques, which I can apply to real-world problems and use to drive innovation and progress.
  
  ⚡ Fun fact: A group of cats is defined as a Clowder
 <!--
